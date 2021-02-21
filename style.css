@@ -52,7 +52,7 @@ a:hover{
     max-width:800px;
     width:85%;
     margin:0 auto;
-    padding:60px;
+    padding:16px;
 
 }
 h1{
@@ -128,6 +128,9 @@ header p:last-of-type:hover{
     background-color: #00314780;
 }
 
+.work-experience ul{
+    list-style-type: none;
+}
 
 /* education */
 
