@@ -26,6 +26,15 @@ body{
     border-bottom:none;
 }
 
+section {
+    opacity: 0;
+    transition: opacity 1s;
+    }
+    
+section.visible { 
+    opacity: 1;
+    transform: translate(0, 0); 
+    }
 h3{
     margin-bottom:0;
 }
