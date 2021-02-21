@@ -268,7 +268,9 @@ html{
 }
 
 @media screen and (max-width:749px){
-
+     header{
+         height: 100vh;
+     }
     .education{
         padding-bottom: 30px;
     }
