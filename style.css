@@ -18,7 +18,7 @@ body{
 
 .divider section{
     border-bottom:1px dashed #343434;
-    padding:25px 0;
+    /* padding:25px 0; */
 
 }
 
@@ -259,6 +259,7 @@ html{
         display:grid;
         grid-template-columns:1fr 2fr;
         column-gap:20px;
+        padding-bottom: 0px;
     }
 
     .contact-list{
