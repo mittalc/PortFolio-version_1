@@ -107,6 +107,15 @@ header p:last-of-type:hover{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100vw;
+	height: 100vh;
+	z-index: 9999;
+	background: url('https://media.giphy.com/media/3oeHLhzRkRX1bQQBPi/giphy.gif') 50% 50% no-repeat rgb(0, 0, 0);
+}
 
 .projects .content-wrap{
     background-color: #000000a2;
