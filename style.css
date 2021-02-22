@@ -85,6 +85,9 @@ h1,h2{
 .head-container{
     background-image: url(images/background.jpg);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 
 
 }
